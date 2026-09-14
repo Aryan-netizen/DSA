@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Aryan-netizen/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Aryan-netizen/DSA/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-netizen/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryan-netizen/DSA/tree/master/0042-trapping-rain-water) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryan-netizen/DSA/tree/master/0225-implement-stack-using-queues) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
