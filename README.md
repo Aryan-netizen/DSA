@@ -26,4 +26,12 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-netizen/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
+## Math
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
