@@ -75,4 +75,8 @@
 | ------- |
 | [0015-3sum](https://github.com/Aryan-netizen/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryan-netizen/DSA/tree/master/0016-3sum-closest) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Aryan-netizen/DSA/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
