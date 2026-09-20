@@ -1,13 +1,14 @@
 class Solution {
     public int reverseDegree(String s) {
-        Map<Character,Integer> map = new HashMap<>();
-        for(int i=0;i<26;i++){
-            map.put((char)('a'+i),26-i);
-        }
-        int ans=0;
-        for(int i=0;i<s.length();i++){
-            ans+=(i+1)*(map.get(s.charAt(i)));
-        }
-        return ans;
+        int sum=0;
+        int product=1;
+       for(int i=0;i<s.length();i++)
+       {
+        int index=s.charAt(i)-'a';
+        int reverse=26-index;
+        product=(i+1)*reverse;
+        sum=sum+product;
+       }
+       return sum;
     }
 }
