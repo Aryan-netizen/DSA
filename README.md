@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -113,4 +114,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryan-netizen/DSA/tree/master/0054-spiral-matrix) |
+| [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
