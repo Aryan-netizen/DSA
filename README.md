@@ -93,6 +93,7 @@
 | [0607-sales-person](https://github.com/Aryan-netizen/DSA/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Aryan-netizen/DSA/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/Aryan-netizen/DSA/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/Aryan-netizen/DSA/tree/master/0620-not-boring-movies) |
 ## String
 |  |
 | ------- |
