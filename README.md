@@ -14,6 +14,7 @@
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-netizen/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [0054-spiral-matrix](https://github.com/Aryan-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-netizen/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
+| [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0016-3sum-closest](https://github.com/Aryan-netizen/DSA/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Aryan-netizen/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 ## Dynamic Programming
 |  |
 | ------- |
