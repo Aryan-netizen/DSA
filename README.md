@@ -14,6 +14,7 @@
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -80,6 +81,7 @@
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryan-netizen/DSA/tree/master/0225-implement-stack-using-queues) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aryan-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
