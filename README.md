@@ -78,6 +78,7 @@
 | [0496-next-greater-element-i](https://github.com/Aryan-netizen/DSA/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
@@ -119,6 +120,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
+| [0856-score-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -150,6 +152,7 @@
 | [0020-valid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
