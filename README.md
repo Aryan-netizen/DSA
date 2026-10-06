@@ -17,6 +17,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-netizen/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-netizen/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryan-netizen/DSA/tree/master/0225-implement-stack-using-queues) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0054-spiral-matrix](https://github.com/Aryan-netizen/DSA/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Aryan-netizen/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
