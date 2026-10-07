@@ -124,6 +124,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0856-score-of-parentheses) |
@@ -173,4 +174,12 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-netizen/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Aryan-netizen/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
