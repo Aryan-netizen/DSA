@@ -18,6 +18,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-netizen/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-netizen/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -107,12 +108,14 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aryan-netizen/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryan-netizen/DSA/tree/master/0016-3sum-closest) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Database
 |  |
 | ------- |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -183,6 +187,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-netizen/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan-netizen/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
