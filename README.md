@@ -23,6 +23,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-netizen/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-netizen/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-netizen/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-netizen/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-netizen/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Database
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aryan-netizen/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryan-netizen/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-netizen/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
