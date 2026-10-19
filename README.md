@@ -20,6 +20,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-netizen/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-netizen/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-netizen/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-netizen/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
@@ -130,6 +132,7 @@
 | [0016-3sum-closest](https://github.com/Aryan-netizen/DSA/tree/master/0016-3sum-closest) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-netizen/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan-netizen/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-netizen/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
