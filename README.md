@@ -32,6 +32,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-netizen/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aryan-netizen/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan-netizen/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-netizen/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Aryan-netizen/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -64,6 +65,7 @@
 | [1254-number-of-closed-islands](https://github.com/Aryan-netizen/DSA/tree/master/1254-number-of-closed-islands) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan-netizen/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0042-trapping-rain-water](https://github.com/Aryan-netizen/DSA/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan-netizen/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan-netizen/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aryan-netizen/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan-netizen/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
