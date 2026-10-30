@@ -28,6 +28,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-netizen/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-netizen/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan-netizen/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryan-netizen/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan-netizen/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -49,6 +50,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-netizen/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan-netizen/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Aryan-netizen/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Recursion
@@ -201,6 +203,7 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
 | ------- |
