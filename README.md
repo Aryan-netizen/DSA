@@ -11,6 +11,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Aryan-netizen/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-netizen/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Aryan-netizen/DSA/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Aryan-netizen/DSA/tree/master/0735-asteroid-collision) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Aryan-netizen/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Aryan-netizen/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Aryan-netizen/DSA/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -150,6 +152,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Aryan-netizen/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aryan-netizen/DSA/tree/master/0016-3sum-closest) |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-netizen/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -192,6 +195,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -199,10 +203,12 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2404-most-frequent-even-element](https://github.com/Aryan-netizen/DSA/tree/master/2404-most-frequent-even-element) |
@@ -252,12 +258,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan-netizen/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-netizen/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quickselect
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## K-D Tree
 |  |
