@@ -25,6 +25,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/Aryan-netizen/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aryan-netizen/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Aryan-netizen/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2404-most-frequent-even-element](https://github.com/Aryan-netizen/DSA/tree/master/2404-most-frequent-even-element) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aryan-netizen/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-netizen/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan-netizen/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -48,6 +49,7 @@
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2404-most-frequent-even-element](https://github.com/Aryan-netizen/DSA/tree/master/2404-most-frequent-even-element) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aryan-netizen/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan-netizen/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -203,6 +205,7 @@
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2404-most-frequent-even-element](https://github.com/Aryan-netizen/DSA/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Simulation
 |  |
