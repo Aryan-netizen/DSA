@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/Aryan-netizen/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Aryan-netizen/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-netizen/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-netizen/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Aryan-netizen/DSA/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Aryan-netizen/DSA/tree/master/0692-top-k-frequent-words) |
@@ -81,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan-netizen/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-netizen/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
