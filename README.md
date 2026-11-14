@@ -38,6 +38,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Aryan-netizen/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aryan-netizen/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryan-netizen/DSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aryan-netizen/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan-netizen/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aryan-netizen/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryan-netizen/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -266,6 +267,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aryan-netizen/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-netizen/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
@@ -375,6 +377,7 @@
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Aryan-netizen/DSA/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aryan-netizen/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aryan-netizen/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryan-netizen/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
