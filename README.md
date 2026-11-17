@@ -120,6 +120,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryan-netizen/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-netizen/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/Aryan-netizen/DSA/tree/master/1861-rotating-the-box) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryan-netizen/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Aryan-netizen/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryan-netizen/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan-netizen/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryan-netizen/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aryan-netizen/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3693-climbing-stairs-ii](https://github.com/Aryan-netizen/DSA/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Aryan-netizen/DSA/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -217,6 +219,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Aryan-netizen/DSA/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Aryan-netizen/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aryan-netizen/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Aryan-netizen/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
