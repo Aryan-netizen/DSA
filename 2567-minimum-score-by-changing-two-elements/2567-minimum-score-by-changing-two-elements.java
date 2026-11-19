@@ -1,21 +1,25 @@
 class Solution {
     public int minimizeSum(int[] nums) {
-        int[] small = new int[3], neg = new int[3];  // the 3 smallest values, and the 3 smallest negated ones: minus the 3 largest
-        Arrays.fill(small, Integer.MAX_VALUE);
-        Arrays.fill(neg, Integer.MAX_VALUE);
-        for (int x : nums) {
-            keep(small, x);
-            keep(neg, -x);
+        
+        //because you can make any two elements equal to the third element and hence the array will have all elements equal and so the diffrence will be 0 for all pairs
+        
+        if(nums.length==3){
+            return 0;
         }
-        return Math.min(-neg[0] - small[2], Math.min(-neg[1] - small[1], -neg[2] - small[0]));
-    }
-
-    private void keep(int[] three, int x) {  // three: the 3 smallest values so far, ascending
-        if (x >= three[2])
-            return;
-        int i = 2;
-        for (; i > 0 && three[i - 1] > x; i--)
-            three[i] = three[i - 1];
-        three[i] = x;
+        
+        Arrays.sort(nums);
+        
+        //remove first two i.e replacing first two elements with any element in between the array
+        int a=nums[nums.length-1]-nums[2];
+        
+        //remove last two i.e replacing last two elements with any element in between the array
+        int b=nums[nums.length-3]-nums[0];
+        
+        //remove last and first i.e replacing first and last elements with any element in between the array
+        int c=nums[nums.length-2]-nums[1];
+        
+        return Math.min(a,Math.min(b,c));
+        
+        
     }
 }
