@@ -21,6 +21,7 @@
 | [0835-image-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0835-image-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1254-number-of-closed-islands](https://github.com/Aryan-netizen/DSA/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aryan-netizen/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aryan-netizen/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Aryan-netizen/DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryan-netizen/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -101,6 +102,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan-netizen/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Aryan-netizen/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Aryan-netizen/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aryan-netizen/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Aryan-netizen/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryan-netizen/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Aryan-netizen/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -169,6 +171,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryan-netizen/DSA/tree/master/0225-implement-stack-using-queues) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aryan-netizen/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aryan-netizen/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Aryan-netizen/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Aryan-netizen/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Aryan-netizen/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -413,4 +417,8 @@
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Aryan-netizen/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Aryan-netizen/DSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
